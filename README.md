@@ -47,8 +47,3 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rallen1101&show_icons=true&theme=radical" alt="Allen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rallen1101&layout=compact&theme=radical" alt="Top Langs" />
-</p>
