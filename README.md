@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allen</h1><p align="left"></p>
 <p align="left">
-  <a href="javascript:void(0)"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/></a><a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="javascript:void(0)"><img src="https://cdn.simpleicons.org/qdrant/DC2626" alt="qdrant" width="40" height="40"/></a>
+  <a href="javascript:void(0)"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/></a> <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/></a> <a href="javascript:void(0)"><img src="https://cdn.simpleicons.org/qdrant/DC2626" alt="qdrant" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="Anthropic / MCP" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
