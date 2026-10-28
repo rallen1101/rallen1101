@@ -27,7 +27,7 @@
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="javascript:void(0)"><img src="https://cdn.simpleicons.org/jfrog/41BF47" alt="jfrog" width="40" height="40"/></a>
+  <a href="javascript:void(0)"><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="javascript:void(0)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/></a>
