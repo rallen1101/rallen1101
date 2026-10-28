@@ -5,9 +5,9 @@
 
 ### AI & RAG
 <p align="left">
-<img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/>
-<img src="https://assets-global.website-files.com/646b41223e5729be107147b8/646b41223e5729be10714856_qdrant-logo.svg" alt="qdrant" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="qdrant" width="40" height="40"/>
 </p>
 
 ### Frontend
