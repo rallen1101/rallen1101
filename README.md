@@ -5,12 +5,9 @@
 
 ### AI & RAG
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://api.iconify.design/logos:openai-icon.svg" alt="openai" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos:langchain-icon.svg" alt="langchain" width="40" height="40"/>
   <img src="https://api.iconify.design/logos:huggingface-icon.svg" alt="huggingface" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/RAG-Architecture-0052CC?style=for-the-badge&logoColor=white" alt="rag" height="40"/>
+  <img src="https://img.shields.io/badge/RAG-24292e?style=for-the-badge&logo=gitbook&logoColor=white" alt="RAG" height="40"/>
 </p>
 
 ### Frontend
