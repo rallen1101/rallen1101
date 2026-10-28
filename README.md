@@ -7,7 +7,7 @@
 <p align="left">
     <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo-horizontal.svg" alt="qdrant" height="40"/>
+    <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="qdrant" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="Anthropic / MCP" width="40" height="40"/>
 </p>
