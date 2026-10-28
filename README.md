@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://api.iconify.design/logos:openai-icon.svg" alt="openai" width="40" height="40"/>
   <img src="https://api.iconify.design/logos:huggingface-icon.svg" alt="huggingface" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/RAG-24292e?style=for-the-badge&logo=gitbook&logoColor=white" alt="RAG" height="40"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="qdrant" height="40"/>
 </p>
 
 ### Frontend
